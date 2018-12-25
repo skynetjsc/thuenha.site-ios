@@ -1,0 +1,6 @@
+framework module Pods_ThueNha {
+  umbrella header "Pods-ThueNha-umbrella.h"
+
+  export *
+  module * { export * }
+}
